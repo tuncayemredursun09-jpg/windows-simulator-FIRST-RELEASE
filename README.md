@@ -8,3 +8,5 @@ SECOND UPDATE : https://g.co/gemini/share/14c4b69ee34f
 Upgraded to windows vista https://g.co/gemini/share/76e512c4b513
 
 bug fixed : https://g.co/gemini/share/cf484daecdba
+
+5 Update :  upgraded to windows 7 https://g.co/gemini/share/326100447b65
