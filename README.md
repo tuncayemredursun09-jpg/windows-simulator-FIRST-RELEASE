@@ -14,3 +14,5 @@ bug fixed : https://g.co/gemini/share/cf484daecdba
 update https://g.co/gemini/share/3658a86a6952
 
 upgraded to windows 8 : https://g.co/gemini/share/dbd79ede3064
+
+add back button (still windows 8) : https://g.co/gemini/share/194726613332
