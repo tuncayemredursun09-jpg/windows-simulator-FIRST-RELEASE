@@ -12,3 +12,5 @@ bug fixed : https://g.co/gemini/share/cf484daecdba
 5 Update :  upgraded to windows 7 https://g.co/gemini/share/326100447b65
 
 update https://g.co/gemini/share/3658a86a6952
+
+upgraded to windows 8 : https://g.co/gemini/share/dbd79ede3064
